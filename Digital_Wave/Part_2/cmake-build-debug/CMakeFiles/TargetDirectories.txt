@@ -1,0 +1,3 @@
+C:/Users/Demonic/CLionProjects/Digital_Wave/Part_2/cmake-build-debug/CMakeFiles/Part_2.dir
+C:/Users/Demonic/CLionProjects/Digital_Wave/Part_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Demonic/CLionProjects/Digital_Wave/Part_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
